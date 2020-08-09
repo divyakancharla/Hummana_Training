@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calci/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Calci.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Calci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calci/1.0.0": {
+      "sha512": "3/ZVGoIqaaull94wE1BZZhctEdFZyrdP0xgwMjOENwASFg8z3aYwLKst+15J2+/JpvdVvwgcyTVoDSkXeAGQ0Q==",
+      "type": "package",
+      "path": "calci/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "calci.1.0.0.nupkg.sha512",
+        "calci.nuspec",
+        "lib/netcoreapp3.1/Calci.dll",
+        "lib/netcoreapp3.1/Calci.runtimeconfig.json"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Calci >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MyPc\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\HUMANA-TRAINING\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "projectName": "DesignPatterns",
+      "projectPath": "F:\\HUMANA-TRAINING\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "packagesPath": "C:\\Users\\MyPc\\.nuget\\packages\\",
+      "outputPath": "F:\\HUMANA-TRAINING\\DesignPatterns\\DesignPatterns\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MyPc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "F:\\HUMANA-TRAINING\\DesignPatterns": {},
+        "F:\\HUMANA-TRAINING\\HandsOnNugetAndTesting\\Calci\\bin\\Debug": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Calci": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

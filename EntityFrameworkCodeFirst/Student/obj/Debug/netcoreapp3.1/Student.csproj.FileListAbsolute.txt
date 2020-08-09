@@ -1,0 +1,10 @@
+F:\HUMANA-TRAINING\EntityFrameworkCodeFirst\Student\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\HUMANA-TRAINING\EntityFrameworkCodeFirst\Student\bin\Debug\netcoreapp3.1\appsettings.json
+F:\HUMANA-TRAINING\EntityFrameworkCodeFirst\Student\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\HUMANA-TRAINING\EntityFrameworkCodeFirst\Student\bin\Debug\netcoreapp3.1\Student.exe
+F:\HUMANA-TRAINING\EntityFrameworkCodeFirst\Student\obj\Debug\netcoreapp3.1\Student.csprojAssemblyReference.cache
+F:\HUMANA-TRAINING\EntityFrameworkCodeFirst\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfoInputs.cache
+F:\HUMANA-TRAINING\EntityFrameworkCodeFirst\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfo.cs
+F:\HUMANA-TRAINING\EntityFrameworkCodeFirst\Student\obj\Debug\netcoreapp3.1\Student.RazorTargetAssemblyInfo.cache
+F:\HUMANA-TRAINING\EntityFrameworkCodeFirst\Student\obj\Debug\netcoreapp3.1\staticwebassets\Student.StaticWebAssets.Manifest.cache
+F:\HUMANA-TRAINING\EntityFrameworkCodeFirst\Student\obj\Debug\netcoreapp3.1\staticwebassets\Student.StaticWebAssets.xml

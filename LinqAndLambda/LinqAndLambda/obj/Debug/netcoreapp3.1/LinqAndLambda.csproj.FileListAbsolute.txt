@@ -1,0 +1,13 @@
+F:\c#\LinqAndLambda\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.csprojAssemblyReference.cache
+F:\c#\LinqAndLambda\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.AssemblyInfoInputs.cache
+F:\c#\LinqAndLambda\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.AssemblyInfo.cs
+F:\c#\LinqAndLambda\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.dll
+F:\c#\LinqAndLambda\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.pdb
+F:\c#\LinqAndLambda\LinqAndLambda\bin\Debug\netcoreapp3.1\LinqAndLambda.exe
+F:\c#\LinqAndLambda\LinqAndLambda\bin\Debug\netcoreapp3.1\LinqAndLambda.deps.json
+F:\c#\LinqAndLambda\LinqAndLambda\bin\Debug\netcoreapp3.1\LinqAndLambda.runtimeconfig.json
+F:\c#\LinqAndLambda\LinqAndLambda\bin\Debug\netcoreapp3.1\LinqAndLambda.runtimeconfig.dev.json
+F:\c#\LinqAndLambda\LinqAndLambda\bin\Debug\netcoreapp3.1\LinqAndLambda.dll
+F:\c#\LinqAndLambda\LinqAndLambda\bin\Debug\netcoreapp3.1\LinqAndLambda.pdb
+F:\c#\LinqAndLambda\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.csproj.CoreCompileInputs.cache
+F:\c#\LinqAndLambda\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.genruntimeconfig.cache

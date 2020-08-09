@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\HUMANA-TRAINING\\EntityFrameworkCodeFirst\\Student\\Student.csproj": {}
+  },
+  "projects": {
+    "F:\\HUMANA-TRAINING\\EntityFrameworkCodeFirst\\ContactStudent\\ContactStudent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\HUMANA-TRAINING\\EntityFrameworkCodeFirst\\ContactStudent\\ContactStudent.csproj",
+        "projectName": "ContactStudent",
+        "projectPath": "F:\\HUMANA-TRAINING\\EntityFrameworkCodeFirst\\ContactStudent\\ContactStudent.csproj",
+        "packagesPath": "C:\\Users\\MyPc\\.nuget\\packages\\",
+        "outputPath": "F:\\HUMANA-TRAINING\\EntityFrameworkCodeFirst\\ContactStudent\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MyPc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\HUMANA-TRAINING\\DesignPatterns": {},
+          "F:\\HUMANA-TRAINING\\HandsOnNugetAndTesting\\Calci\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\HUMANA-TRAINING\\EntityFrameworkCodeFirst\\Student\\Student.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\HUMANA-TRAINING\\EntityFrameworkCodeFirst\\Student\\Student.csproj",
+        "projectName": "Student",
+        "projectPath": "F:\\HUMANA-TRAINING\\EntityFrameworkCodeFirst\\Student\\Student.csproj",
+        "packagesPath": "C:\\Users\\MyPc\\.nuget\\packages\\",
+        "outputPath": "F:\\HUMANA-TRAINING\\EntityFrameworkCodeFirst\\Student\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MyPc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\HUMANA-TRAINING\\DesignPatterns": {},
+          "F:\\HUMANA-TRAINING\\HandsOnNugetAndTesting\\Calci\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\HUMANA-TRAINING\\EntityFrameworkCodeFirst\\ContactStudent\\ContactStudent.csproj": {
+                "projectPath": "F:\\HUMANA-TRAINING\\EntityFrameworkCodeFirst\\ContactStudent\\ContactStudent.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
